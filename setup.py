@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# made from chenlei
 """
 File: setup.py
 Description: Setup script to build and distribute cognitive_face module.
